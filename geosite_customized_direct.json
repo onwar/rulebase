@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "instabox.sh"
+        "instabox.sh",
+        "workos.com"
       ]
     }
   ]
